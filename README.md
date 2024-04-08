@@ -1,6 +1,12 @@
 # "Tinker" is a web application for handymen to find good-paying jobs.
 
-```There will be a project's Problem Statement.```
+Tinker is a platform that connects people with independent contractors, called Taskers, who can help with jobs, errands, and other tasks. For example: Yard work, Electrical help, Assistance with moving, etc. User should be able to register with their first name, last name, phone number, and email. Users should be able to sign in to the platform to create a new task. Users should be able to enter a category of task, detailed description, address, and date. The system can suggest nearby contract workers who are matched with the category of the task request for the user to select. Users can see the tasks they created before and can update and cancel their requests. Users should be able to see the price of contract workers and their availability.
+
+Tinker also allows contractor workers to register themselves with the same registration information as a user, plus their specialization. The system should be able to send notifications if someone chooses a contract worker for their tasks. A contract worker should be able to accept and pass the task that is created for them.
+
+If a task is completed, the user should be able to pay for a task with the system so that the contract worker can receive payment for the work.
+
+The administrator should be able to see all lists of users, contract workers, and tasks.
 
 ## Available Scripts
 
